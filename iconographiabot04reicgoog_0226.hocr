@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iconographiabot04reicgoog_0226.png"; bbox 0 0 1133 1454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 317 1262 694 1300">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 317 1262 694 1300">
+     <span class='ocr_line' id='line_1_1' title="bbox 317 1262 694 1300; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 317 1298 319 1300; x_wconf 76' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 352 1262 505 1296; x_wconf 61' lang='lat' dir='ltr'><em>(sfrsustclc</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 527 1263 597 1290; x_wconf 61' lang='lat' dir='ltr'><em>alla</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 630 1274 694 1290; x_wconf 75' lang='lat' dir='ltr'><em>Ml)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 471 1302 565 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 471 1302 565 1314">
+     <span class='ocr_line' id='line_1_2' title="bbox 471 1302 565 1314; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 471 1309 474 1311; x_wconf 36' lang='lat' dir='ltr'>v</span> <span class='ocrx_word' id='word_1_6' title='bbox 490 1306 527 1314; x_wconf 61' lang='lat' dir='ltr'><em>var</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 544 1302 565 1311; x_wconf 32' lang='lat'><em>¹⁷,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 848 91 960 105">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 848 91 960 105">
+     <span class='ocr_line' id='line_1_3' title="bbox 848 91 960 105; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 848 91 960 105; x_wconf 67' lang='lat' dir='ltr'><em>lll&#39;LA&#39;AZl&#39;l</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
